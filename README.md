@@ -7,7 +7,7 @@ To create an animated underline on a link, you create a navigation with UL eleme
 
 Example 1 (creates the animated underlines with default values: speed = 0.3 seconds, color = "#DB3340", thickness = 2 and distance = 0)
 
-HTML
+<b>HTML</b>
 
 &lt;ul id="links"&gt;
 
@@ -20,7 +20,7 @@ HTML
 &lt;/ul&gt;
 
 
-JS
+<b>JS</b>
 
 $("links").linkUnderlineAnim();
 
@@ -29,7 +29,7 @@ $("links").linkUnderlineAnim();
 
 Example 2 (creates the animated underlines with options: speed = 0.3 seconds, color = "green", thickness = 3 and distance = 2)
 
-HTML
+<b>HTML</b>
 
 &lt;ul id="links"&gt;
 
@@ -42,7 +42,7 @@ HTML
 &lt;/ul&gt;
 
 
-JS
+<b>JS</b>
 
 $("#links").linkUnderlineAnim({
 
@@ -58,14 +58,14 @@ $("#links").linkUnderlineAnim({
 
 
 
-OPTIONS
+<b>OPTIONS</b>
 
-	speed - speed of underline animation (ms) (default 300)
+<i>speed</i> - speed of underline animation (ms) (default 300)
         
-	color - color of underline (can be any CSS3 compatible color (default "#DB3340")
+<i>color</i> - color of underline (can be any CSS3 compatible color (default "#DB3340")
         
-	thickness - thickness of underline (px) (default 2)
-        
-	distance - distance of the underline from the text (px) (default 0)
+<i>thickness</i> - thickness of underline (px) (default 2)
+       
+<i>distance</i> - distance of the underline from the text (px) (default 0)
         
         
