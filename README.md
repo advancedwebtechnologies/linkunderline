@@ -60,12 +60,12 @@ $("#links").linkUnderlineAnim({
 
 OPTIONS
 
-	speed - // speed of underline animation (ms) (Default 300)
+	speed - speed of underline animation (ms) (default 300)
         
-	color - // color of underline (can be any CSS3 compatible color (default "#DB3340")
+	color - color of underline (can be any CSS3 compatible color (default "#DB3340")
         
-	thickness - // thickness of underline (px) (default 2)
+	thickness - thickness of underline (px) (default 2)
         
-	distance - // distance of the underline from the text (px) (default 0)
+	distance - distance of the underline from the text (px) (default 0)
         
         
