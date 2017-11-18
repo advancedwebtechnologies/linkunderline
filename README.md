@@ -4,7 +4,8 @@ jQuery plugin to create an animated underline under the text links.
 To create an animated underline on a link, you create a navigation with UL element and anchor elements, and invoke linkUnderlineAnim method with optional parameters 'speed', 'color', 'thickness' and 'distance'.
 
 <ol>
-	<li>Include the latest version of jQuery with the <i>script</i> element inside the <i>head</i> element</li>
+	<li>Download our jQuery plugin <i>jquery.linkunderanim.min.js</i> and upload on your server/website</li>
+	<li>Include the latest version of jQuery with the <i>script</i> element inside the <i>head</i> element of your web page</li>
 	<li>Include Link Underline Animation javascript file (jquery.linkunderanim.min.js) in the <i>script</i> element</li>
 	<li>Create HTML markup of the links (with unordered list)</li>
 	<li>Select the list with jQuery and invoke <i>linkUnderlineAnim</i> method with or without options</li>
