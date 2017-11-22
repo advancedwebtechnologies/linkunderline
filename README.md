@@ -22,11 +22,11 @@ Example 1 (creates the animated underlines with default values: speed = 0.3 seco
 
 &lt;ul id="links"&gt;
 
-&lt;li><a href=""&gt;First link&gt;/a&gt;
+&lt;li><a href=""&gt;First link&lt;/a&gt;
 
-&lt;li><a href=""&gt;Second link&gt;/a&gt;
+&lt;li><a href=""&gt;Second link&lt;/a&gt;
 
-&lt;li><a href=""&gt;Third link&gt;/a&gt;
+&lt;li><a href=""&gt;Third link&lt;/a&gt;
 
 &lt;/ul&gt;
 
@@ -47,11 +47,11 @@ Example 2 (creates the animated underlines with options: speed = 0.3 seconds, co
 
 &lt;ul id="links"&gt;
 
-&lt;li><a href=""&gt;First link&gt;/a&gt;
+&lt;li><a href=""&gt;First link&lt;/a&gt;
 
-&lt;li><a href=""&gt;Second link&gt;/a&gt;
+&lt;li><a href=""&gt;Second link&lt;/a&gt;
 
-&lt;li><a href=""&gt;Third link&gt;/a&gt;
+&lt;li><a href=""&gt;Third link&lt;/a&gt;
 
 &lt;/ul&gt;
 
