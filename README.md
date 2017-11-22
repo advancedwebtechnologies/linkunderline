@@ -33,7 +33,7 @@ Example 1 (creates the animated underlines with default values: speed = 0.3 seco
 
 <b>JS</b>
 
-$("links").linkUnderlineAnim();
+$("#links").linkUnderlineAnim();
 
 
 <br>
